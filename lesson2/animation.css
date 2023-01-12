@@ -1,0 +1,43 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    animation-name: test;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+position: relative;
+}
+@keyframes test {
+0% {
+    top: 0;
+    left: 0;
+    background-color: green;
+}
+
+20% {
+    top: 0;
+    left: 500px;
+    background-color: yellow;
+}
+40% {
+    top: 0;
+    left: 1000px;
+    background-color: aqua;
+}
+60% {
+    top: 500px;
+    left: 1000px;
+    background-color: blue;
+}
+80% {
+    top: 500px;
+    left: 0;
+background-color: brown;
+}
+100% {
+    top: 0;
+    left: o;
+    background-color: black;
+}
+
+}

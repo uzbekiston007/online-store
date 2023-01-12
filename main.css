@@ -1,0 +1,51 @@
+
+
+
+
+*{
+
+    margin: 0;
+   }
+   
+   .part {
+    width:  100%;
+    height: 100vh;
+    box-sizing: border-box;
+     background-image: url('https://tesla-cdn.thron.com/delivery/public/image/tesla/03e533bf-8b1d-463f-9813-9a597aafb280/bvlatuR/std/4096x2560/M3-Homepage-Desktop-LHD');
+    background-position: center center;
+   }
+    .box1{
+     background-image: url('https://tesla-cdn.thron.com/delivery/public/image/tesla/5a7b3001-249f-4065-a330-4ea6a17ccf7b/bvlatuR/std/2560x1708/Model-3-Main-Hero-Desktop-LHD');
+     background-size: cover;
+    }
+    .box2{
+     background-image: url('https://tesla-cdn.thron.com/delivery/public/image/tesla/8c26f779-11e5-4cfc-bd7c-dcd03b18ff88/bvlatuR/std/4096x2561/Model-X-Main-Hero-Desktop-LHD');
+     background-size: cover;
+     background-position: center center;
+    }
+    .box3{
+     background-image: url('https://tesla-cdn.thron.com/delivery/public/image/tesla/91abd4c7-32a1-41cc-ade5-b64774dbea61/bvlatuR/std/2880x1800/Model-Y-Main-Hero-Desktop-Global?quality=auto-medium&amp;format=auto');
+     background-size: cover;
+    }
+    .box4{
+     background-image: url('https://tesla-cdn.thron.com/delivery/public/image/tesla/cfcf3747-c7d7-488d-896d-7c9462e50ca5/bvlatuR/std/2880x1800/Solar-Roof-Hero-Desktop-Global?quality=auto-medium&format=auto');
+     
+     background-size: cover;
+    }
+    .box5{
+     background-image: url('https://tesla-cdn.thron.com/delivery/public/image/tesla/45992f1c-a33a-4a04-b1f0-338aff182f8e/bvlatuR/std/2880x1800/_25-Hero-D');
+     background-size: cover;
+    }
+    a {
+        text-decoration: none;
+    }
+    a:hover{
+        background-color: blue;
+    }
+    
+    .model-s{
+        color: black;
+        text-transform: capitalize;
+        margin: 0 16px;
+    }
+   

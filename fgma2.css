@@ -1,0 +1,43 @@
+@import url( " https://fonts.googleapis.com/css?family-Montserrat:wght 308 & family - Orbitron : wghos680 & family - Poppins : ital.wghtwe , 189 ; 0,589 ; 0,688 ; 1,200 & family - Roboto : ital , wghtse , 100 ; 0,500 ; 1.300 & display - swap " ) ;
+
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box; 
+}
+movies-container {
+    width: 100%;
+     padding: 20px 0;
+   /* border: 2px solid red;*/ 
+    background-color: #232323;
+    display: flex;
+    Justify-content: space-around;
+    flex-wrap: wrap;
+}
+    .single-movie{
+    
+    width: 28%;
+    height: 670px;
+    background-color: blue;
+    margin: 8px 0;
+    }
+    .movie1 {
+    width: 485px;
+    height: 600px;
+    background-image : url(Bitmap\ \(2\).png);
+    background-size: cover;
+    background-color: red;
+    }
+    .movie-footer{
+    color: #fff;
+    font-size: xx-large;
+    margin: 8px 0;
+    font-family: Montserrat;
+    font-style: Medium;
+    font-size: 18px;
+    line-height: 22px;
+    line-height: 100%;
+    }
+
+
+

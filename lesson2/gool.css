@@ -1,0 +1,17 @@
+* {
+    scroll-behavior: smooth;
+
+}
+body {
+    position: fixed;
+}
+.go-to-top {
+    padding: 5px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #232323;
+    border-radius: 8px;
+    color: #fff;
+    font-size: 12px;
+}

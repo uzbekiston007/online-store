@@ -1,0 +1,135 @@
+.big {
+    height: 2303px;
+    width: 1440px;
+    background-color: #FFE2B0;
+  
+  }
+  
+  .rasm1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .menu1 {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  .img {
+    width: 1440px;
+    position: absolute;
+    top: 200px;
+  
+  }
+  
+  .frame {
+    width: 420px;
+    height: 190px;
+    background-color: rgba(234, 156, 65, 08);
+    position: absolute;
+    top: 720px;
+  
+    left: 750px;
+    opacity: 80%;
+  }
+  
+  .frame1 {
+    width: 400px;
+    height: 170px;
+    border: 1px solid black;
+    position: absolute;
+    top: 7px;
+    left: 7px;
+  }
+  
+  .p {
+    height: 36px;
+    width: 996px;
+    position: absolute;
+    top: 0px;
+    left: 20%;
+  }
+  
+  .p1 {
+    height: 36px;
+    width: 350px;
+    position: absolute;
+    top: 50px;
+    left: 7%;
+    right: 7%;
+  
+  }
+  
+  .icon1 {
+    position: relative;
+    top: 43%;
+    left: 150px;
+    height: 290px;
+    width: 290px;
+  
+  }
+  
+  .icon2 {
+    position: relative;
+    top: -100%;
+    left: 366px;
+    height: 290px;
+    width: 290px;
+  
+  }
+  
+  .icon3 {
+    position: relative;
+    top: 22%;
+    left: 870px;
+    height: 290px;
+    width: 290px;
+  
+  }
+  
+  .rang {
+    color: red;
+    height: 1296px;
+    width: 1296px;
+    position: relative;
+    top: 20.5%;
+    left: 39%;
+  
+  }
+  
+  .yozuv {
+    position: relative;
+    top: -35%;
+    left: 14%;
+    height: 296px;
+    width: 996px;
+  
+  }
+  
+  .zakazat {
+    position: relative;
+    top: -39%;
+    left: 44%;
+  
+  
+  }
+  
+  .xarita {
+    position: absolute;
+    top: -39%;
+    left: 13.5%;
+  
+  }
+  
+  .menu2 {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #FFE2B0;
+  
+    padding: 4px;
+  
+  
+  
+  
+  }

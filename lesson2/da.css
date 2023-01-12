@@ -1,0 +1,96 @@
+.a {
+    width: 500px;
+    height: 50px;
+   
+}
+.b{
+    width: 300px;
+    height: 50px;
+    transition:all 0.5s;
+    border:3px solid  red;
+
+}
+
+
+
+.a:hover .b {
+width: 700px;
+}
+.d {
+    width: 500px;
+    height: 50px;
+}
+.c{
+    width: 300px;
+    height: 50px;
+    transition:all 0.5s;
+    border:3px solid  red;
+
+}
+.d:hover .c {
+    width: 700px;
+
+}
+
+.y {
+    width: 500px;
+    height: 50px;
+}
+.u{
+    width: 300px;
+    height: 50px;
+    transition:all 0.5s;
+    border:3px solid  red;
+
+}
+.y:hover .u {
+    width: 700px;
+
+}
+
+.o {
+    width: 500px;
+    height: 50px;
+}
+.p{
+    width: 300px;
+    height: 50px;
+    transition:all 0.5s;
+    border:3px solid  red;
+
+}
+
+.o:hover .p {
+    width: 700px;
+
+}
+.j {
+    width: 500px;
+    height: 50px;
+}
+.k{
+    width: 300px;
+    height: 50px;
+    transition:all 0.5s;
+    border:3px solid  red;
+
+}
+.j:hover .k {
+    width: 700px;
+
+}
+.m {
+    width: 500px;
+    height: 50px;
+}
+.n{
+    width: 300px;
+    height: 50px;
+    transition:all 0.5s;
+    border:3px solid  red;
+
+}
+.m:hover .n {
+    width: 700px;
+
+}
